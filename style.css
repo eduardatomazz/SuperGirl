@@ -1,0 +1,136 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 110);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+#navbar{
+    background-color: rgb(9, 0, 87);
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#rodape{
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+}
+#icon{
+    width: 70px;
+    height: 70px;
+    margin-right: 10px;
+}
+#heroi_1{
+    background-color: rgb(87, 0, 0);
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.herois{
+    background-color: rgb(161, 154, 92);
+    padding: 30px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.imagem_noticia{
+    height: 300px;
+    width: 300px;
+}
+.jonn_noticia{
+    height: 200px;
+    width: 400px;
+}
+#sobre{
+    margin: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white;
+    border-style: solid;
+    display: flex;
+    background-color: rgb(161, 154, 92);
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
+.alex_noticia{
+    height: 200px;
+    width: 400px;
+}
+.sobre_ela{
+    padding: 10px;
+}
+.nia_noticia{
+    height: 200px;
+    width: 400px;
+} 
+#titulo_herois{
+    background-color: rgb(9, 0, 87);
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: solid;
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aliados{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+   
+}
+#herois{
+    background-color: rgb(87, 0, 0);
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.heroi{
+    background-color: rgb(161, 154, 92);
+    padding: 30px;
+    border-style: solid;
+    border-color: white;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#titulo_viloes{
+    background-color: rgb(9, 0, 87);
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: solid;
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.viloes{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+}
+#vilao{
+    background-color: rgb(87, 0, 0);
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around; 
+}
+.contra{
+    background-color: rgb(161, 154, 92);
+    padding: 30px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+   
+
